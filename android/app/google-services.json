@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006232952712",
+    "project_id": "keepclone-dbc89",
+    "storage_bucket": "keepclone-dbc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006232952712:android:56d569e79f865b9d17243d",
+        "android_client_info": {
+          "package_name": "com.example.googleclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006232952712-er6dqesl7354blnubb9hd3u26b1q31lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmVQj4yOWI6nnTYkj1y1b9c0xa62kgcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006232952712-er6dqesl7354blnubb9hd3u26b1q31lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
